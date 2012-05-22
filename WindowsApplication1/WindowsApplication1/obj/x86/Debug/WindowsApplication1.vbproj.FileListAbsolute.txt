@@ -12,3 +12,11 @@ C:\Users\Deves\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debu
 C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
 C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Deves\Ticket-system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
