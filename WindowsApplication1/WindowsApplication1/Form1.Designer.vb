@@ -37,7 +37,7 @@ Partial Class Form1
         '
         Me.Ticket_id.Location = New System.Drawing.Point(12, 30)
         Me.Ticket_id.Name = "Ticket_id"
-        Me.Ticket_id.Size = New System.Drawing.Size(144, 20)
+        Me.Ticket_id.Size = New System.Drawing.Size(143, 20)
         Me.Ticket_id.TabIndex = 0
         Me.Ticket_id.Text = "Ticket Id"
         '
@@ -71,6 +71,7 @@ Partial Class Form1
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(145, 20)
         Me.TextBox3.TabIndex = 4
+        Me.TextBox3.Text = "Email address"
         '
         'Button1
         '
